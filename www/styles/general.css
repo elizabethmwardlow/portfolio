@@ -1,0 +1,85 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #c4c4c4;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 70.5rem;
+  margin: 0 auto;
+  background-color: #fff;
+  min-height: 10rem;
+  box-sizing: border-box;
+}
+
+.topbar {
+  background-color: #fff;
+  min-height: 5.375rem;
+  padding-top: 1.5625rem;
+}
+
+.inner {
+  width: 100%;
+  max-width: 70.5rem;
+  margin: 0 auto;
+  height: inherit;
+}
+
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1.125rem;
+  line-height: 3.375rem;
+}
+
+.menu a {
+  font-weight: normal;
+  margin-left: 1.75rem;
+}
+
+.menu div {
+  font-weight: normal;
+  margin-left: 1.75rem;
+  color: black;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 1.875rem;
+  display: flex;
+  align-content: center;
+}
+
+.name span {
+  margin-left: 1rem;
+  margin-top:.5rem;
+}
+
+.topbar_inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hi {
+  font-weight: bold;
+  font-size: 4.5rem;
+  line-height: 4.4375rem;
+  padding-top: 1rem;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 3rem;
+  padding-top: 1.5rem;
+}
