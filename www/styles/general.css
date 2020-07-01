@@ -83,3 +83,66 @@ a {
   font-size: 3rem;
   padding-top: 1.5rem;
 }
+
+.work {
+  font-weight: 500;
+  font-size: 1.4375rem;
+  padding-top: 3rem;
+}
+
+.inner_work {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.project_inner {
+  display: flex;
+  width: 100%;
+  max-width: 70.5rem;
+  height: auto;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 3rem;
+}
+
+
+.image {
+  width: 50%;
+  max-width: 35.25rem;
+}
+
+.left {
+  padding-right: 1.5rem;
+}
+
+.right {
+  padding-left: 1.5rem;
+}
+
+.hide_this {
+  visibility: hidden;
+}
+
+.bottom_bar{
+  margin-top: 3rem;
+  padding-top: 3rem;
+}
+
+.inner_bottom {
+  width: 100%;
+  max-width: 70.5rem;
+  margin: 0 auto;
+  min-height: 10rem;
+}
+
+.bottom_text {
+  font-weight: 500;
+  font-size: 2rem;
+  color: #c4c4c4;
+}
