@@ -1,4 +1,4 @@
-# Hi, I'm Elizabeth.
+# Hi, I'm Elizabeth!
 ## I'm an engineer, designer, and people-person.
 
 With my background in Natural Language Processing (NLP) and my front end software engineering experience for an early startup, I make a great team player with a wide background. As an NLP Strategist for Deloitte, I focus on designing, building, and training conversational chat and voice AI products, in addition to being a project manager for voice AI products.
